@@ -94,7 +94,7 @@ RegisterNetEvent('nn_vehredeem:server:deleteredeem', function(redeem_code)
     TriggerClientEvent('ox_lib:notify', src, {
         title = getText('title'),
         description = getText('delete_success', redeem_code),
-        type = 'error'
+        type = 'success'
     })
     
 end)
