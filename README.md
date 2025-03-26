@@ -101,9 +101,13 @@ end
 
 ## Dependencies  
 
-- QBOX[https://github.com/Qbox-project/qbx_core]  
-- ox_lib[https://github.com/overextended/ox_lib]  
-- oxmysql[https://github.com/overextended/oxmysql]  
+- [QBOX](https://github.com/Qbox-project/qbx_core) 
+- [ox_lib](https://github.com/overextended/ox_lib)  
+- [oxmysql](https://github.com/overextended/oxmysql)
+
+## Preview
+[YOUTUBE](https://www.youtube.com/watch?v=ggw1uBVEv-8)
+  
 ## Support  
 
 For assistance or bug reports, please create an issue in the repository.  
