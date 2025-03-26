@@ -40,7 +40,7 @@ Lang = {
         create_failed = "Failed to create redeem code!",
 
         claim_success = "Redeem code successfully!",
-        claim_failed = "ailed to use redeem code!",
+        claim_failed = "Failed to use redeem code!",
 
         delete_warning = "Are you sure you want to delete the redeem code: %s",
         delete_success = "Successfully deleted the redeem code: %s",
